@@ -1,1 +1,1 @@
-# Angular-Projects
+Angular projects practice from Udemy
